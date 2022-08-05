@@ -33,10 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Curso NodeJS + EJS - Conhecendo o poder do Template Engine EJS.
 Foco total na escrita e não no designer.
 
+<!---
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
----
+--->
 
 Feito com ♥ by Andressa Da Costa
